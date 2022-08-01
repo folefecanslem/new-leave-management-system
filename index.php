@@ -1,5 +1,9 @@
 
 <?php include_once "header.php" ?>
+<br>
+<br>
+<br>
+<br>
     <div class="home">
         <div class="container">
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -48,4 +52,8 @@
    
   </div>
 </div>
+<br>
+<br>
+<br>
+<br>
     <?php include_once "footer.php"?>

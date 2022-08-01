@@ -1,4 +1,8 @@
 <?php include_once "header.php"?>
+<br>
+<br>
+<br>
+<br>
 <div class="row">
   <div class="col-md-6 offset-md-3">
   <div class="form1">  
@@ -15,7 +19,7 @@
             </div>
   
             <!-- Password input -->
-            <div class="form-outline mb-3">
+            <div class="form-outline mb-4">
               <input type="password" id="form3Example4" class="form-control form-control-lg"
                 placeholder="Enter password" />
               <label class="form-label" for="form3Example4">Password</label>
@@ -26,10 +30,8 @@
             </div>
   
             <div class="text-center text-lg-start mt-4 pt-2">
-              <button type="button" class="btn btn-primary btn-lg"
-                style="padding-left: 2.5rem; padding-right: 2.5rem;">Login</button>
-              <p class="small fw-bold mt-2 pt-1 mb-0">creat account <a href="#!"
-                  class="link-danger">Register</a></p>
+              <button type="submit" class="btn btn-primary btn-lg"
+                style="padding-left: 2.5rem; padding-right: 2.5rem;" id="login">Login</button>
             </div>
         </div>
       </div>

@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">EMPLOYEE LEAVES SYSTEM</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,7 +18,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="employee-profile.php">profile</a>
+          <a class="nav-link active" aria-current="page" href="employee-profile.php">PROFILE</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php">INDEX</a>
@@ -27,24 +27,13 @@
           <a class="nav-link" href="employee-dashboard.php">DASHBOARD</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="leave-form.php">request leave</a>
+          <a class="nav-link" href="leave-form.php">REQUEST LEAVE</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="login.php">login</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
-          </ul>
+          <a class="nav-link" href="login.php">LOGIN</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled">Disabled</a>
+          <a class="nav-link" href="new-account.php">SIGHNUP</a>
         </li>
       </ul>
     </div>
