@@ -5,7 +5,7 @@
 <br>
   <div class="col-md-6 offset-md-3">
   <div class="form1">  
- <form>                                  
+ <form action="" method="get">                               
     <div class="container-fluid h-custom">
       <div class="row d-flex justify-content-center align-items-center h-100">
         <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1 col-sm-8 ">
@@ -17,7 +17,7 @@
               <label class="form-label" for="form3Example3">First Name</label>
             </div>
             <div class="form-outline mb-4">
-              <input type="email" id="form4" class="form-control form-control-lg"
+              <input type="text" id="form4" class="form-control form-control-lg"
                 placeholder="Last Name" />
               <label class="form-label" for="form3Example3">Last Name</label>
             </div>

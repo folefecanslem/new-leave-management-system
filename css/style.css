@@ -3,7 +3,7 @@
 }
 
 .form1{
-    background-image:url("img/img1.avif");
+    background-image:url("../img/img1.avif");
 
     padding-top: 15px;
     margin-top: auto;
@@ -26,7 +26,7 @@ body{
     text-align: justify;
 }
 .fix{
-    background-image:url("img/img4.jpg") ;
+    background-image:url("../img/img4.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
 }

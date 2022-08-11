@@ -12,9 +12,9 @@
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
   <ul class="list-group list-group-flush">
-    <li class="list-group-item" id="name"><H4>NAME :</H4> folefec anmslem</li>
-    <li class="list-group-item" id="job"><h4>JOB:</h4>cleaner</li>
-    <li class="list-group-item" id="sex"><h4>SEX:</h4>male</li>
+    <li class="list-group-item" name="NAME" ><H4>NAME :</H4> folefec anmslem</li>
+    <li class="list-group-item" name="job" ><h4>JOB:</h4>cleaner</li>
+    <li class="list-group-item" name="sex"><h4>SEX:</h4>male</li>
   </ul>
 </div> 
 </div>
