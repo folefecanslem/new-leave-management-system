@@ -1,5 +1,5 @@
     <!-- Beginning of the footer -->
-    <div class="bg-dark text-white text-center p-3 font-weight-bold">
+    <div class="bg-dark text-white text-center  p-3 font-weight-bold">
     <footer class="bg-dark text-white text-center p-3 font-weight-bold">
         Leaves Management System<span class="text-danger">&copy; 2022</span>
        <div class="foot">

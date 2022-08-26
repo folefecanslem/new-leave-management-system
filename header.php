@@ -21,7 +21,7 @@
           <a class="nav-link active" aria-current="page" href="employee-profile.php">PROFILE</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php">INDEX</a>
+          <a class="nav-link" href="index.php">HOME</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="employee-dashboard.php">DASHBOARD</a>
@@ -34,6 +34,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="new-account.php">SIGHNUP</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.php">ABOUT</a>
         </li>
       </ul>
     </div>

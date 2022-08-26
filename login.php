@@ -1,4 +1,6 @@
-<?php include_once "header.php"?>
+<?php include_once "header.php";
+include_once "login_proccess.php"
+?>
 <br>
 <br>
 <br>
@@ -6,7 +8,7 @@
 <div class="row">
   <div class="col-md-6 offset-md-3">
   <div class="form1">  
- <form action="" method="GET">                                  
+ <form action="login_proccess.php" method="GET">                                  
     <div class="container-fluid h-custom">
       <div class="row d-flex justify-content-center align-items-center h-100">
         <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1 col-sm-8 ">
